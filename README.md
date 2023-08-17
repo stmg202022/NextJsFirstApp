@@ -1,1 +1,1 @@
-Leatn... Next js
+Learn... Next js
